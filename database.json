@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 16 Pro",
+    "description": "O iPhone 16 Pro com Apple Intelligence oferece desempenho excepcional e recursos avançados de IA.",
+    "price": 10499,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v7994110507103068006/products/100055295.00.638688214125144293-iphone-16-pro-128gb-titanio-natural-myng3be-a.jpg&height=424&width=424&quality=0.9",
+    "inStock": 100
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air",
+    "description": "O novo MacBook Air com Apple Intelligence combina potência e portabilidade em um design elegante.",
+    "price": 12999,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v6245450744385601838/products/100055407.00.638735938590155971-macbook-air-apple-13-m2-cpu-8-nucleos-gpu-8-nucleos-16gb-ram-256gb-ssd-meia-noite-mc7x4bz-a.jpg&height=424&width=424&quality=0.9",
+    "inStock": 100
+  },
+  {
+    "id": 3,
+    "name": "iPad Air",
+    "description": "O iPad Air oferece desempenho incrível com o chip M1 e uma tela Liquid Retina deslumbrante.",
+    "price": 7499,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v6176542736863832384/products/230252.00.638566502941545579-ipad-air-13-polegadas-wifi-cellular-512gb-azul-m2-mv713bz-a.jpg&height=424&width=424&quality=0.9",
+    "inStock": 100
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch Series 10",
+    "description": "O Apple Watch Series 10 apresenta design refinado e recursos avançados de saúde e fitness.",
+    "price": 5499,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v7674181948676397013/products/100051899.00-apple-watch-series-10-gps-cellular-caixa-ardosia-titanio-46mm-pulseira-ardosia-estilo-milanes-pm-mc7r4am-a.jpg&height=424&width=424&quality=0.9",
+    "inStock": 100
+  },
+  {
+    "id": 5,
+    "name": "iPhone 16",
+    "description": "O iPhone 16 com Apple Intelligence traz inovações poderosas para o seu dia a dia.",
+    "price": 7799,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v5291047516339081729/products/100053761.00-iphone-16-256gb-preto-myee3br-a.jpg&height=424&width=424&quality=0.9",
+    "inStock": 100
+  },
+  {
+    "id": 6,
+    "name": "Mac Studio",
+    "description": "O Mac Studio com Apple Intelligence é uma potência criativa para profissionais exigentes.",
+    "price": 25999,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v5044100152989700744/products/224444.04-apple-mac-studio-m2-ultra-cpu-1tb-mqh63bz-a.jpg&height=424&width=424&quality=0.9",
+    "inStock": 100
+  },
+  {
+    "id": 7,
+    "name": "iPad",
+    "description": "O iPad é versátil e fácil de usar, perfeito para trabalho e diversão.",
+    "price": 4499,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v6511821603308464679/products/230278.00.638566441914480731-ipad-pro-13-m4-wi-fi-512gb-prateado-mvx53bz-a.jpg&height=424&width=424&quality=0.9",
+    "inStock": 100
+  },
+  {
+    "id": 8,
+    "name": "MacBook Pro",
+    "description": "O MacBook Pro com Apple Intelligence oferece desempenho e velocidade para profissionais criativos.",
+    "price": 19999,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v7995519592467723912/products/100055439.00.638735946875864334-macbook-pro-apple-16-m4-pro-cpu-14-nucleos-gpu-20-nucleos-48gb-ram-512gb-ssd-prateado-mx2u3bz-a.jpg&height=424&width=424&quality=0.9",
+    "inStock": 100
+  },
+  {
+    "id": 9,
+    "name": "Apple Watch Ultra 2",
+    "description": "O Apple Watch Ultra 2 apresenta uma nova cor que nunca amarela e recursos avançados.",
+    "price": 10499,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v3294491117809232832/products/100051809.00-apple-watch-ultra-gps-cellular-caixa-natural-titanio-49mm-pulseira-natural-estilo-milanes-titanio-m-mx5r3be-a.jpg&height=350&width=350&quality=1.0",
+    "inStock": 100
+  },
+  {
+    "id": 10,
+    "name": "AirPods Pro",
+    "description": "Os AirPods Pro oferecem cancelamento de ruído ativo e som de alta qualidade.",
+    "price": 2799,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v8074710330627905170/products/227363.00-airpods-pro-2-usb-c-mtjv3be-a.jpg&height=350&width=350&quality=1.0",
+    "inStock": 100
+  },
+  {
+    "id": 11,
+    "name": "Mac Mini",
+    "description": "O Mac Mini com chip M2 oferece desempenho poderoso em um design compacto.",
+    "price": 8499,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v1854237248824736345/products/221352.00-teclado-mx-keys-mini-logitech-bluetooth-cinza-920-010506.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+    "inStock": 100
+  },
+  {
+    "id": 12,
+    "name": "iPad Pro",
+    "description": "O iPad Pro com chip M2 é a experiência definitiva em tablets.",
+    "price": 10999,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v6864101749053599003/products/230275.00.638566445899396823-ipad-pro-13-m4-wi-fi-256gb-preto-espacial-mvx23bz-a.jpg&height=350&width=350&quality=1.0",
+    "inStock": 100
+  },
+  {
+    "id": 13,
+    "name": "Apple TV 4K",
+    "description": "A Apple TV 4K oferece uma experiência cinematográfica com qualidade de imagem e som incríveis.",
+    "price": 1899,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v4944833231138092372/products/100057681.00-apple-tv-4k-3-geracao-wi-fi-64gb-mn873bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+    "inStock": 100
+  },
+  {
+    "id": 14,
+    "name": "AirTag",
+    "description": "O AirTag ajuda você a encontrar facilmente seus itens pessoais com o app Buscar.",
+    "price": 349,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v5117314706358322678/products/100052076.00-chaveiro-de-tecido-finewoven-para-airtag-preto-ma7g4zm-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+    "inStock": 100
+  },
+  {
+    "id": 15,
+    "name": "Magic Keyboard",
+    "description": "O Magic Keyboard oferece uma experiência de digitação confortável e precisa para o iPad Pro.",
+    "price": 1999,
+    "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v6341697928867701934/products/230322.00-capa-teclado-magic-keyboard-apple-ipad-13-pro-m4-branco-mwr43bz-a.jpg&height=470&width=470&height=470&width=470&quality=0.8",
+    "inStock": 100
+  }
+]
